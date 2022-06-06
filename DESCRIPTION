@@ -2,10 +2,10 @@ Package: ICODS
 Type: Package
 Title: Data Analysis for ODS and Case-Cohort Designs with
         Interval-Censoring
-Version: 1.0
-Date: 2019-6-05
+Version: 1.1
+Date: 2022-06-05
 Author: Shannon T. Holloway, Qingning Zhou, Jianwen Cai, Haibo Zhou
-Maintainer: Shannon T. Holloway <sthollow@ncsu.edu>
+Maintainer: Shannon T. Holloway <shannon.t.holloway@gmail.com>
 Description: Sieve semiparametric likelihood methods for analyzing 
  interval-censored failure time data from an outcome-dependent sampling (ODS) 
  design and from a case-cohort design. 
@@ -23,5 +23,5 @@ Collate: 'myOptim.R' 'minObj.R' 'baseInfo.R' 'CaseCohort_Obj.R'
         'CaseCohort_data.R' 'ODSDesign_Obj.R' 'ODSDesign_class.R'
         'ODSDesignIC.R' 'ODSDesign_data.R' 'ODSDesign_fn.R'
         'ODSDesign_gr.R' 'testInputData.R'
-Packaged: 2019-06-05 12:16:40 UTC; sthollow
-Date/Publication: 2019-06-05 13:00:06 UTC
+Packaged: 2022-06-05 19:10:36 UTC; 19194
+Date/Publication: 2022-06-06 23:10:36 UTC
